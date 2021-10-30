@@ -1,0 +1,12 @@
+{
+    "name": "LGXgbESPIOR",
+    "keywords": "mqtt, m2m, iot, thingsboard",
+    "description": "A library for using the Legaxus Gibbon ESPIOR IoT gateway.",
+    "repository": {
+        "type": "git",
+        "url": "https://www.legaxus.com"
+    },
+    "version": "1.0",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino"
+}
